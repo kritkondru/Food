@@ -1,0 +1,65 @@
+{
+    "title":"food",
+"dishes":[
+    {
+ "id":"1",
+ "name":"Biryani",
+ "price":"$14.00",
+ "cuisine":"Indian"
+},
+{
+    "id":"2",
+    "name":"Fish n Chips",
+    "price":"$15.00" ,
+    "cuisine":"American" 
+},
+{
+    "id":"3",
+    "name":"Nachos",
+    "price":"$10.00" ,
+    "cuisine":"Mexican" 
+},
+{
+    "id":"4",
+    "name":"Jerk Chicken",
+    "price":"$20.00" ,
+    "cuisine":"Jamaican" 
+},
+{
+    "id":"5",
+    "name":"Chaufa de Pollo",
+    "price":"$14.50" ,
+    "cuisine":"Peruvian" 
+},
+{
+    "id":"6",
+    "name":"Margarita",
+    "price":"$10.50" ,
+    "cuisine":"Italian" 
+},
+{
+    "id":"7",
+    "name":"Sheek Kebab",
+    "price":"$10.00" ,
+    "cuisine":"Mediterranean" 
+},
+{
+    "id":"8",
+    "name":"Steak",
+    "price":"$15.50" ,
+    "cuisine":"American" 
+},
+{
+    "id":"9",
+    "name":"Khati Roll",
+    "price":"$8.50" ,
+    "cuisine":"Indian" 
+},
+{
+    "id":"10",
+    "name":"Showerma",
+    "price":"$10.00" ,
+    "cuisine":"Mediterranean" 
+}
+]
+}
